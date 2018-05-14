@@ -28,5 +28,5 @@ for (dirpath, dirnames, filenames) in walk("C:/Users/Darek/Desktop/test"):
         except KeyboardInterrupt:
             observer.stop()
         observer.join()
-    path1 = path2
+    #path1 = path2
 
